@@ -6,5 +6,5 @@
 * Salt
 
 ## Instructions
-
+* smash avocados
 
